@@ -5,7 +5,6 @@ from selenium_test.pages import homepage
 # sys.path.append(os.path.join(os.path.dirname(__file__),"..",".."))
 
 
-# url = 'view-source:http://apnaohio.com/classifieds.jsp?page=1&id=Roommate%20Search&city=columbus'
 
 
 @given (u': I launch Oyeroomie url on desktop')
